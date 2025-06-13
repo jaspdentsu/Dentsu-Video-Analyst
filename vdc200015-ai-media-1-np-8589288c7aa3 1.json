@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "vdc200015-ai-media-1-np",
+  "private_key_id": "8589288c7aa3935f8954bb3ecf597aa8693a3609",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDlPBWWSH3YkPAP\n8536WrzkvalC+f5uDfeV0viLq/3EepoiS8uxxCcfLEV75Cj+TsUg5dPHLhKUUAa7\nCpgIE++HoXcWhOV+EYbNYvQgd65T5OGSDu0/0Yh3yBPtNH9rK9/TNhVExr8+6Zua\nY2cDNFakuFlqvuXXckBUYUUXgKGdmha0ga6xaJDZC1aplfybbv/flZaVnU3rDw2Q\nk3hP28AY8vECNFAu9WtNSgvj/K0pvwwHRwFTPKE3aYkFMPv2+ChLmH47K46V2Blw\nihfef+U3sVG+2VtJWH3u7vRi0IpOlv5njgxwP6ymAEaqUcJJ+CNouTDnX8cJQ2Cp\ni5evvsG1AgMBAAECggEAaCoJVSTTqpkRvO3il2Sr+PUF+N1IdBH8syQOtMkOoz1i\n1LrEcJ7FeDDR0h43UnfQs8Y7mYKiBqrmpA+ITgNhEKyaRK1W6xZjvuh8LlSz7oNO\nzOPjguBftq4//8WfML/bEUq+F2aIeLoGbv1ETfx2cpsiZpMgNepAuRcKIkfdKJOD\n/0A4MzhnJs7i5Nm+4qYNitKi6w8Lnxo1sOP454cNPvHFe1i5avmB204iNww0ooUH\nrq0A1NLPNS23jeKiGLA8kZCn5+K1EZ37VPpASsywYHcfzhPFianWaktU3QAfFasd\nX8jOYADTTJP8QLZ0C3Do8qiujHDIFw2aUSA7LsXtcQKBgQD6RxtzVJqTD/m4SqFF\nhpFRB4rfFiK5Bw5cYSHjOYipdhPID5c/t+yuqYni+xlUGTlhAp+Fh1l96oBoGnFG\n0vMGa3any0ARTr30GiJjCwoBmKp4+7umm1P+ssipweewIlaWbo5SKp+9enbb0Nyo\nWo3Z/TbxRxSjc4XHZJDHzO/S3wKBgQDqec+GZX++dEG1lVkoTz6UZNlTAkx7ZHxN\nGM3BI6qgkttFTl6UTTI7pxYKrLofV531q+8LRXo6PFQy3qBZIYY0ZNC1qcSo8czF\nNGJdnYkeIqigzoBToa21FN3HnfGneScs6GgI3sjb5vGh9qCgeCh4OOnpEXZA/Gax\n3bK8xrSx6wKBgQD53YXdVYjg66EfSXrKo7dukz4kzL+rxAylU9/2L5ltvdGv+UjC\nN4iXM/HSZ2f5Gxm67Vh/ggppeHXr+QJAeBhiv2T9ziBPZzKjgnf0M7Awuc7v7DqC\n8i4gaTOGr2z03sNdelCiXaWPELWbbWDuv0FBcdipd5J2QL49u/wDTWndNwKBgGCD\ng0huvwZGFEYKE4jkFX4/hLUGXTTtR7z0WL0HUVSHHnqIp6WjoOms/QWn03TTO9HD\n08Fv97/A1Wea+6W0hulKFh6woqJn5UHHLjYagjZFTePjHC9QfY/r5t4jxTSKSfXS\nNABys3rQtOVV/wgObZoO0zl8VpCpVBwihU/u+rHBAoGBAKnE/MrvLzBgzw+7JuPC\n9SLyb7k9UJzCBqqA1kW+mYlKaWuIhkA99f9rnNSX0aItC0CSyDl1g8no6284G53X\n98cogaSz1MbAm2xecVqwmpKP7qIRIKHWwwE5TIQLT04UbMowvxmY794cHX4xJMsd\noQWlqQXNfFu5CRX+cvOB9KH2\n-----END PRIVATE KEY-----\n",
+  "client_email": "video-intelligence-api-testing@vdc200015-ai-media-1-np.iam.gserviceaccount.com",
+  "client_id": "118220687847673212681",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/video-intelligence-api-testing%40vdc200015-ai-media-1-np.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

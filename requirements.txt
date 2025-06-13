@@ -1,0 +1,15 @@
+streamlit==1.41.1
+pandas==2.2.3
+numpy==2.2.2
+yt-dlp==2025.2.19
+youtube-transcript-api==1.1.0
+opencv-python==4.11.0.86
+langchain==0.3.25
+langchain-ollama==0.3.3
+ollama==0.5.1
+jinja2==3.1.5
+matplotlib==3.10.0
+seaborn==0.13.2
+scikit-learn==1.6.1
+tensorflow
+torch==2.7.0
